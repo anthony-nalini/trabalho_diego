@@ -1,6 +1,6 @@
 # 🎓 Sistema de Gerenciamento de Cursos
 
-**Desenvolvido por:** Bruno Ruthes Pinheiro de Oliveira  
+**Desenvolvido por:** Anthony Marconi Nalini dos Santos 
 **Data:** Outubro de 2025
 
 ---
