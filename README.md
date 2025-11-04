@@ -54,7 +54,7 @@ O projeto segue o padrão **MVC**, dividindo responsabilidades em:
 ## 📁 Estrutura de Pastas
 
 ```bash
-mvcbruno/
+mvcTrabalhoDiego/
 ├── controller/          # Controladores HTTP
 ├── service/             # Regras de negócio
 ├── repository/          # Acesso ao banco de dados
